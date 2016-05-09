@@ -34,7 +34,7 @@ This step will update an existing Codename One Netbeans project to add a build s
 
 ~~~~
 > cd CN1UWPPort
-> ant setup -Dcodenameone.project.dir=TestProject
+> ant setup -Dcodename1.project.dir=TestProject
 ~~~~
 
 In the above example, we used one argument:
